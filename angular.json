@@ -30,7 +30,7 @@
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
-              "node_modules/boxicons/dist/js/boxicons.js"
+              "node_modules/boxicons/dist/boxicons.js"
             ]
           },
           "configurations": {
